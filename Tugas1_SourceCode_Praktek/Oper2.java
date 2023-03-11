@@ -1,7 +1,7 @@
  /* NIM  : 13020210121
 Nama     : St. Nadya Kurnia Prihandani
 Hari/Tgl : Jumat, 10 Maret 2023
-Waktu    : 01.29*/
+Waktu    : 02.07*/
 
 
 /* pemakaian beberapa operator terhadap RELATIONAL DAN bit */

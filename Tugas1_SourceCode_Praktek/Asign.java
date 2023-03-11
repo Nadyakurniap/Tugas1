@@ -1,7 +1,7 @@
 /* NIM  : 13020210121
 Nama    : St. Nadya Kurnia Prihandani
 Hari/Tgl: Kamis, 9 Maret 2023
-Waktu   : 20:14 */
+Waktu   : 20:31 */
 
 public class Asign {
 
